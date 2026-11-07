@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Diabetes Prediction System
 
 ## Project Overview
@@ -46,3 +47,7 @@ The project uses a trained Random Forest Classifier for diabetes prediction.
 
 ## Disclaimer
 This project is developed for educational purposes only. Predictions are not a substitute for professional medical diagnosis.
+=======
+# prediction_of_diabetes
+Diabetes Prediction using Machine Learning and Flask.
+>>>>>>> a7747d8dac5522a4d951e66280769d4a3b84e959
