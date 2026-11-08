@@ -1,12 +1,14 @@
-<<<<<<< HEAD
+
 # Diabetes Prediction System
 
 ## Project Overview
+
 The Diabetes Prediction System is a Machine Learning project that predicts whether a person is likely to have diabetes based on medical information.
 
 The project uses a Random Forest Classifier and a Flask web application to provide predictions through a simple user interface.
 
 ## Technologies Used
+
 - Python
 - Machine Learning
 - Random Forest Classifier
@@ -16,7 +18,9 @@ The project uses a Random Forest Classifier and a Flask web application to provi
 - HTML and CSS
 
 ## Project Files
+
 - `app.py` – Flask application.
+- `prediction of diabetes.ipynb` – Jupyter Notebook containing the machine learning workflow.
 - `rf_model.pkl` – Trained Random Forest model.
 - `scaler.pkl` – StandardScaler object.
 - `imputer.pkl` – Missing-value imputer.
@@ -43,11 +47,9 @@ The project uses a Random Forest Classifier and a Flask web application to provi
    `http://127.0.0.1:5000/`
 
 ## Model
+
 The project uses a trained Random Forest Classifier for diabetes prediction.
 
 ## Disclaimer
+
 This project is developed for educational purposes only. Predictions are not a substitute for professional medical diagnosis.
-=======
-# prediction_of_diabetes
-Diabetes Prediction using Machine Learning and Flask.
->>>>>>> a7747d8dac5522a4d951e66280769d4a3b84e959
